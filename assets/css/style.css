@@ -98,7 +98,7 @@ a{text-decoration: none;}
 .navigation ul a li{
     list-style-type: none;
     font-weight: bold;
-    font-size: calc(2.7rem + 1.5vw);
+    font-size: calc(2.5rem + 1.4vw);
     transition: ease 0.3s;
     color: #111111;
     text-transform: uppercase;
